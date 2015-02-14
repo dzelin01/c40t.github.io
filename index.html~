@@ -1,0 +1,24 @@
+<!DOCTYPE>
+<html>
+  <head>
+    <title> Comp40 Tinder </title>
+  </head>
+
+  <body>
+    <div>
+      <img src = ""> Image of Person</img>
+    </div>
+
+    <div> 
+      <h1> Name </h1>
+    </div>
+
+    <div>
+      <h2> Age, School </h2>
+    </div>
+
+
+  </body>
+
+
+</html>
